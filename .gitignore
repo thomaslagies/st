@@ -1,6 +1,7 @@
 # Custom blocks file
 config.h
 config.mk
+config.def.h.orig
 arg.h
 FAQ
 LEGACY
