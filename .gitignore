@@ -1,5 +1,18 @@
 # Custom blocks file
-blocks.h
+config.h
+config.mk
+arg.h
+FAQ
+LEGACY
+LICENSE
+st
+st.1
+st.info
+st.o
+TODO
+win.h
+x.c
+x.o
 
 # Prerequisites
 *.d
